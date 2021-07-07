@@ -53,6 +53,7 @@ public class BackgroundLayout extends LinearLayout
         drawable.setCornerRadius(cornerRadius);
         if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.JELLY_BEAN)
         {
+
             setBackground(drawable);
         }
         else
