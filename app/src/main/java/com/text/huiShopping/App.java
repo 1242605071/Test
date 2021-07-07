@@ -3,7 +3,7 @@ package com.text.huiShopping;
 import android.app.Application;
 import android.content.Context;
 
-import com.imgsdk.cameralibrary.CameraSnap;
+
 
 /**
  * @Description:
@@ -16,7 +16,6 @@ public class App extends Application {
     public void onCreate() {
         super.onCreate();
         context = this;
-        CameraSnap.initApplication(this);
     }
 
 }

@@ -58,6 +58,4 @@ dependencies {
 
 //    implementation 'com.github.NoEndToLF:ChinaMapView:1.0.4'
 
-    implementation 'com.imgsdk.camera:discriminat:1.0.5.0'
-    implementation 'com.henryblue.minimusicview:library:1.0.1'
 }
