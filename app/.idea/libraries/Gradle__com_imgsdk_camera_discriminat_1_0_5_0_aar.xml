@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.imgsdk.camera:discriminat:1.0.5.0@aar">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/2894ea56eb937e90a9870f55c9c26051/jetified-discriminat-1.0.5.0/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/2894ea56eb937e90a9870f55c9c26051/jetified-discriminat-1.0.5.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/2894ea56eb937e90a9870f55c9c26051/jetified-discriminat-1.0.5.0/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
